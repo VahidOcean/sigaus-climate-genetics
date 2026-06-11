@@ -17,7 +17,7 @@ library(rgbif)
 library(rentrez)
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-Entrez.email <- "your_email@example.com"   # <-- set your email for NCBI
+Entrez.email <- "   "   # <-- set your email for NCBI
 
 FOCAL_SPECIES <- c(
     "Sigaus australis",
